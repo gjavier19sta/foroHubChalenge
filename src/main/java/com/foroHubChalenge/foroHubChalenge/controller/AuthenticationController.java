@@ -2,6 +2,7 @@ package com.foroHubChalenge.foroHubChalenge.controller;
 
 import com.foroHubChalenge.foroHubChalenge.domain.usuario.Usuario;
 import com.foroHubChalenge.foroHubChalenge.domain.usuario.dto.AutenticacionUsuarioDTO;
+import com.foroHubChalenge.foroHubChalenge.infra.security.dto.JWTtokenDTO;
 import com.foroHubChalenge.foroHubChalenge.infra.service.TokenService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;

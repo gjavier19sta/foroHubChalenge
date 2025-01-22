@@ -5,7 +5,7 @@ import com.foroHubChalenge.foroHubChalenge.domain.respuesta.dto.ActualizarRespue
 import com.foroHubChalenge.foroHubChalenge.domain.respuesta.dto.CrearRespuestaDTO;
 import com.foroHubChalenge.foroHubChalenge.domain.respuesta.dto.DetalleRespuestaDTO;
 import com.foroHubChalenge.foroHubChalenge.domain.respuesta.repository.RespuestaRepository;
-import com.foroHubChalenge.foroHubChalenge.respuesta.validations.create.ValidarRespuestaCreada;
+import com.foroHubChalenge.foroHubChalenge.domain.respuesta.validations.create.ValidarRespuestaCreada;
 import com.foroHubChalenge.foroHubChalenge.domain.respuesta.validations.update.ValidarRespuestaActualizada;
 import com.foroHubChalenge.foroHubChalenge.domain.topico.Estado;
 import com.foroHubChalenge.foroHubChalenge.domain.topico.Topico;
